@@ -1,0 +1,22 @@
+.nav-item {
+  transition: transform 400ms;
+}
+.nav-item :hover {
+  transform: scale(1.2);
+}
+
+.mentionsLegales {
+  transition: transform 400ms;
+}
+.mentionsLegales :hover {
+  transform: scale(1.2);
+}
+
+.rs {
+  transition: transform 400ms;
+}
+.rs :hover {
+  transform: scale(1.2);
+}
+
+/*# sourceMappingURL=style.css.map */
